@@ -1,0 +1,7 @@
+<launch>
+   <!--joystic_driver-->
+  <node name="joy_node" pkg="joy"  type="joy_node" output="screen"/>
+    <!--control_node-->
+  <node name="joy" pkg="ros_controls"  type="joy.py" output="screen"/>
+</launch>
+

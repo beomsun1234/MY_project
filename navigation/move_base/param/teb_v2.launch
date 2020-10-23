@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="move_base" type="move_base" respawn="false" name="move_base" output="screen">
+    <param name="footprint_padding" value="0.01" />
+
+    <param name="oscillation_timeout" value="10.0" />
+
+    <rosparam file="$(find move_base)/param/costmap.yaml" command="load" ns="global_costmap" />
+    <rosparam file="$(find move_base)/param/costmap.yaml" command="load" ns="local_costmap" />
+    <rosparam file="$(find move_base)/param/local_costmap_params.yaml" command="load" />
+    <rosparam file="$(find move_base)/param/global_costmap_params.yaml" command="load" />
+    <rosparam file="$(find move_base)/param/teb_param.yaml" command="load" />
+    <param name="base_global_planner" value="global_planner/GlobalPlanner" />
+    <param name="planner_frequency" value="1.0" />
+    <param name="planner_patience" value="5.0" />
+
+    <param name="base_local_planner" value="teb_local_planner/TebLocalPlannerROS" />
+    <param name="controller_frequency" value="2.0" />
+    <param name="controller_patience" value="5.0" />
+    <param name="clearing_rotation_allowed" value="false" />
+
+  </node>
+</launch>

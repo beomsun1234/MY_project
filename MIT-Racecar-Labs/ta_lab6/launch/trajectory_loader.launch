@@ -1,0 +1,6 @@
+<launch>
+
+  <node pkg="ta_lab6" type="trajectory_loader.py" name="trajectory_loader_node" output="screen">
+  </node>
+  
+</launch>

@@ -1,0 +1,6 @@
+<launch>
+
+  <node pkg="ta_lab6" type="pure_pursuit.py" name="pure_pursuit_node" output="screen">
+  </node>
+  
+</launch>
