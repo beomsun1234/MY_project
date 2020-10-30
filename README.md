@@ -32,4 +32,5 @@ lane detection & tracking screenshoot
 
 
 result
-<iframe width="640" height="360" src="https://www.youtube.com/embed/aIJKLwnVlP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe
+<iframe width="640" height="360" src="https://www.youtube.com/embed/aIJKLwnVlP0" autoplay; allowfullscreen>
+</iframe
