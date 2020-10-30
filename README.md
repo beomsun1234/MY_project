@@ -34,6 +34,6 @@ lane detection & tracking screenshoot
 result
 
 
-[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/aIJKLwnVlP0) 
+[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/aIJKLwnVlP0/0.jpg)](https://youtu.be/aIJKLwnVlP0) 
 
 
