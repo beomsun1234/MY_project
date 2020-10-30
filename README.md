@@ -11,7 +11,7 @@ RUN
 3. run combin_control.py ---> move_base_pure_puresuit, parking , lane_detector 
 
 
-path planning & tracking screenshoot
+#path planning & tracking screenshoot
 
 <div>
 <img src="https://user-images.githubusercontent.com/68090443/97652595-14262380-1aa2-11eb-82fc-b25f48751df6.jpg" width="150">(Map)</img>
@@ -23,7 +23,7 @@ path planning & tracking screenshoot
 
 
 
-lane detection & tracking screenshoot
+#lane detection & tracking screenshoot
 
 <div>
   <img src="https://user-images.githubusercontent.com/68090443/97653115-5a2fb700-1aa3-11eb-921c-e675219cdbbc.jpg" width="150"></img>
@@ -31,9 +31,10 @@ lane detection & tracking screenshoot
 ------------------------------------------------------------
 
 
-result
+
+#result
 
 
-[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/aIJKLwnVlP0/0.jpg)](https://youtu.be/aIJKLwnVlP0) 
+[![my_project](http://img.youtube.com/vi/aIJKLwnVlP0/0.jpg)](https://youtu.be/aIJKLwnVlP0) 
 
 
